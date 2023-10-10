@@ -37,15 +37,15 @@ There are several notable advantages to using a free email server:
 
 ### Popular Free Email Server Solutions:
 
-1 [Blogmail](https://blogmail.io): Blogmail is a blogging SMTP service that is not only FREE, but we’ll also PAY YOU to use it! It’s the passive income breakthrough you’ve been dreaming about.
+1. [Blogmail](https://blogmail.io): Blogmail is a blogging SMTP service that is not only FREE, but we’ll also PAY YOU to use it! It’s the passive income breakthrough you’ve been dreaming about.
 
-2 **Postfix**: Postfix is a widely used open-source email server that focuses on simplicity and security. It is known for its efficient message routing and strong protection against spam and malware.
+2. **Postfix**: Postfix is a widely used open-source email server that focuses on simplicity and security. It is known for its efficient message routing and strong protection against spam and malware.
 
-3 **Dovecot**: Dovecot is a popular open-source email server designed for hosting email accounts and providing email access to users. It supports various email protocols, including IMAP and POP3, ensuring compatibility with a wide range of email clients.
+3. **Dovecot**: Dovecot is a popular open-source email server designed for hosting email accounts and providing email access to users. It supports various email protocols, including IMAP and POP3, ensuring compatibility with a wide range of email clients.
 
-4 **Exim**: Exim is another robust free email server known for its flexibility and customization options. It is a favorite among system administrators due to its extensive configuration capabilities.
+4. **Exim**: Exim is another robust free email server known for its flexibility and customization options. It is a favorite among system administrators due to its extensive configuration capabilities.
 
-5 **Zimbra**: Zimbra is an open-source collaboration suite that includes email, calendaring, and file sharing. It provides a comprehensive solution for organizations looking to manage multiple communication and collaboration tools in one platform.
+5. **Zimbra**: Zimbra is an open-source collaboration suite that includes email, calendaring, and file sharing. It provides a comprehensive solution for organizations looking to manage multiple communication and collaboration tools in one platform.
 
 While free email servers offer many advantages, it's essential to acknowledge some potential challenges:
 
