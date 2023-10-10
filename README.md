@@ -1,3 +1,5 @@
+![Free SMTP Server](https://blogmail.io/img/OG-thumbnail.jpg)
+
 # Free SMTP Server
 
 [Free SMTP Server](https://blogmail.io)
@@ -15,6 +17,7 @@
 - [Blogmail @Facebook](https://www.facebook.com/profile.php?id=61551929232146)
 - [Blogmail @Mastodon](https://mastodon.social/@blogmail)
 - [Blogmail @Pinterest](https://www.pinterest.com/1djdak1tvdcrei3zlp3q6ays3uunyf/email-marketing/)
+- [Blogmail @Medium](https://medium.com/@matt_92172/free-smtp-server-bff235026b21)
 
 ### Free SMTP Server
 
