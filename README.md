@@ -9,7 +9,6 @@
 ## Email News
 
 - [Blogmail @Quora](https://www.quora.com/profile/Blogmail)
-- [Blogmail @Tumblr](https://www.tumblr.com/blogmail)
 - [Blogmail @Reddit](https://www.reddit.com/r/blogmail_io/)
 - [Blogmail @Twitter](https://twitter.com/blogmail_io)
 - [Blogmail @Wordpress](https://mattf449b3e4e344.wordpress.com/)
