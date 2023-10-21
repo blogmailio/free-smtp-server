@@ -8,8 +8,8 @@
 
 ## Email News
 
-- [Blogmail @Quora](https://www.quora.com/profile/Blogmail)
-- [Blogmail @Reddit](https://www.reddit.com/r/blogmail_io/)
+- [Blogmail @BlackHatWorld](https://www.blackhatworld.com/seo/active-email-marketing-communities.1538966/)
+- [Blogmail @AffiliateFix](https://www.affiliatefix.com/threads/most-active-email-marketing-resources.174966/)
 - [Blogmail @Twitter](https://twitter.com/blogmail_io)
 - [Blogmail @Wordpress](https://mattf449b3e4e344.wordpress.com/)
 - [Blogmail @Blogspot](https://blogmailsmtp.blogspot.com/)
