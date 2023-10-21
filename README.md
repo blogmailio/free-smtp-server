@@ -8,6 +8,8 @@
 
 ## Email News
 
+- [Blogmail @IPOven](https://ipoven.com)
+- [Blogmail @InboxIgnite](https://inboxignite.com)
 - [Blogmail @EmailHacking](https://emailhacking.net/posts/most-active-email-marketing-forums/)
 - [Blogmail @BlackHatWorld](https://www.blackhatworld.com/seo/active-email-marketing-communities.1538966/)
 - [Blogmail @AffiliateFix](https://www.affiliatefix.com/threads/most-active-email-marketing-resources.174966/)
